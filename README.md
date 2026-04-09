@@ -79,8 +79,8 @@ This project was completed as part of an internship at **Synent Technologies**, 
 ```id="p3v8kx"
 csv-dashboard/
 │
-├── app.py
-├── dataset.csv
+├── dasboard.py
+├── c1.csv
 ├── requirements.txt
 └── README.md
 ```
